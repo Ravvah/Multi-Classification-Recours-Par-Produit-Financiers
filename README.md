@@ -14,6 +14,8 @@ Voici un aperçu des approches utilisés
 ``` 
 Projet de Classification Multi-Classes
 |
+|---> Analyse exploratoire des données ( Le projet est ici pour l'instant )
+|
 |---> Approche d'Embedding
 |        |
 |        |---> Voyage 02
