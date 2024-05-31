@@ -1,0 +1,1 @@
+DISCRIMINANT_WORDS =  ['fee', 'check', 'car', 'vehicl', 'credit', 'card', 'report', 'equifax', 'experian', 'debt', 'collect', 'transfer', 'money', 'paypal', 'mortgag', 'home', 'interest', 'payday', 'student', 'navient']
