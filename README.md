@@ -1,6 +1,6 @@
 # Multi-Classification-Recours-Par-Produit-Financiers
 
-## Le but est de classer chaque recours de client par le produit financier associé. On procèdera à une classification supervisée
+## Le but est de classer chaque recours de client par le produit financier associé. On procèdera à une classification supervisée sur du texte (NLP)
 
 
 On procedera à un premier nettoyage des données (données manquantes, premieres indications sur notre jeu de donnée)
