@@ -19,7 +19,7 @@ Projet de Classification Multi-Classes
 |
 |---> Approche d'Embedding
 |        |
-|        |---> Voyage 02
+|        |---> Transformers
 |        |       |---> Prétraitement des données
 |        |       |---> Génération d'Embeddings
 |        |
@@ -39,10 +39,6 @@ Projet de Classification Multi-Classes
 |        |       |---> Avec sur-échantillonnage
 |        |       |---> Avec sous-échantillonnage
 |        |
-|        |---> Perceptron Multi-Classe
-|        |       |---> Sans équilibrage des classes
-|        |       |---> Avec sur-échantillonnage
-|        |       |---> Avec sous-échantillonnage
 |        |
 |        |---> Modèle Non Paramétrique Discriminant (ex : k-NN)
 |                |---> Sans équilibrage des classes
