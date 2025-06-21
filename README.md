@@ -2,6 +2,7 @@
 
 ## Le but est de classer chaque recours de client par le produit financier associé. On procèdera à une classification supervisée sur du texte (NLP)
 
+Projet en stand-by pour le moment.
 
 On procedera à un premier nettoyage des données (données manquantes, premieres indications sur notre jeu de donnée)
 
