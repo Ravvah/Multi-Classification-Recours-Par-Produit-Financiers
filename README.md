@@ -23,7 +23,7 @@ Projet de Classification Multi-Classes
 |        |       |---> Prétraitement des données
 |        |       |---> Génération d'Embeddings
 |        |
-|        |---> TF-IDF
+|        |---> Skip-Gram avec Negative Sampling
 |                |---> Prétraitement des données
 |                |---> Génération d'Embeddings
 |
@@ -35,13 +35,6 @@ Projet de Classification Multi-Classes
 |---> Modèles de Classification
 |        |
 |        |---> XGBoost
-|        |       |---> Sans équilibrage des classes
-|        |       |---> Avec sur-échantillonnage
-|        |       |---> Avec sous-échantillonnage
 |        |
-|        |
-|        |---> Modèle Non Paramétrique Discriminant (ex : k-NN)
-|                |---> Sans équilibrage des classes
-|                |---> Avec sur-échantillonnage
-|                |---> Avec sous-échantillonnage
+|        |---> Modèle Bi-Encoder SBERT
 ```
