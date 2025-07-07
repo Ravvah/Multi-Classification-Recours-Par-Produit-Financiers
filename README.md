@@ -27,11 +27,6 @@ Projet de Classification Multi-Classes
 |                |---> Prétraitement des données
 |                |---> Génération d'Embeddings
 |
-|---> Encodage des Labels
-|        |
-|        |---> One-Hot Encoding (pour presque tous les modèles)
-|        |---> Aucun encodage nécessaire pour certains modèles
-|
 |---> Modèles de Classification
 |        |
 |        |---> XGBoost
